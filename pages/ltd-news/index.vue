@@ -5,7 +5,7 @@
       <div class="l-container--large">
         <div class="l-container--contents c-article">
           <p>
-            このページは以下の会員ステータスによって表示の出し分けをするように設計されています。<br />
+            このページはたとえば、以下の会員ステータスによって表示の出し分けをするように設計されています。<br />
           </p>
           <ul>
             <li>
